@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="my_channel">channel1</string>
+    <string name="my_chan_desc">Product added notification</string>
+</resources>
